@@ -1,0 +1,15 @@
+.col-12.col-sm-6.col-md-6.col-lg-2.mb-lg-2:hover {
+    text-decoration: underline;
+    /*opacity: 50%;*/
+}
+
+
+.hover-opacity {
+    /* CSS cho ảnh */
+    transition: opacity 0.3s ease;
+}
+
+.hover-opacity:hover {
+    /* CSS khi hover vào ảnh */
+    opacity: 0.5;
+}
