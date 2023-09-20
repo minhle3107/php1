@@ -3,7 +3,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "assphp";
+    $dbname = "asmphp";
 
 // Tạo kết nối MySQLi
     $conn = new mysqli($servername, $username, $password, $dbname);
