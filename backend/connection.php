@@ -12,5 +12,3 @@
     if ($conn->connect_error) {
         die("Kết nối không thành công: " . $conn->connect_error);
     }
-
-    // Mã PHP tiếp theo của bạn...
